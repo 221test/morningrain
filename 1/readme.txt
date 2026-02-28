@@ -6,3 +6,5 @@ Regarding other matters
 1. You are free to use the artwork however you like. If you need the PSD file or anything else, feel free to contact me anytime, but please remember to end the letter-reply loop.
 
 2. I will continue drawing in the future, and any works related to yours will be uploaded to this repository at a centralized time. It may only be uploaded once a year. I hope you like morningrain.
+
+(Add: Sorry for the false commits. I'm not familiar with GitHub. For me scp is easier and it's the only thing I had used before...)
